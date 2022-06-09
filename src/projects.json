@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Project 1 - Tienda de electronica",
+    "image": "./1.jpg",
+    "github": "https://github.com/Kevin31esder/Tienda-Electronica",
+    "deploy": "https://tienda-videojuegos123.herokuapp.com/",
+    "description": "Tienda electronica que permite realizar varias compras y poder pagar .",
+    "skills": "HTML | CSS | Javascript | React | Express | Redux"
+  },
+  {
+    "name": "Todo lista",
+    "image": "2.jpg",
+    "github": " https://github.com/Kevin31esder/TODOLIST-REACT",
+    "deploy": "https://gregarious-biscotti-881466.netlify.app/",
+    "description": "Aplicacion de TODO con todas las funciones que se puede realizar .",
+    "skills": "Javascript | CSS | HTML | React | Local Storage"
+  },
+  {
+    "name": "App clima",
+    "image": "3.jpg",
+    "github": "https://github.com/efrech/team-profile-generator",
+    "deploy": "https://glowing-naiad-606494.netlify.app/",
+    "description": "Pagina que permite al usuario buscar un lugar y conocer su clima ",
+    "skills": "Javascript | CSS | REACT  | API "
+  },
+  {
+    "name": "Landing Page",
+    "image": "4.jpg",
+    "github": "https://github.com/Kevin31esder/Landing-Page",
+    "deploy": "https://inspiring-gnome-165b0d.netlify.app/",
+    "description": "Una simple pagina de landing paga que fue mi primer Prohecto en React",
+    "skills": "Javascript | CSS | HTML | React"
+  },
+  {
+    "name": "Pagina de videoJuegos",
+    "image": "5.jpg",
+    "github": "https://github.com/Kevin31esder/Pagina-Videojuegos",
+    "deploy": "https://kevin31esder.github.io/Pagina-Videojuegos/",
+    "description": "Pagina de un sitio de videoJuegos, permite ver las ultimas noticias de los videosJuegos",
+    "skills": "Javascript | CSS | HTML | jqueary"
+  }
+]
